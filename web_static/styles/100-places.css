@@ -1,0 +1,28 @@
+.amenities {
+    margin-top: 40px;
+}
+
+.amenities h2,
+.reviews h2 {
+    font-size: 16px;
+    border-bottom: 1px #DDDDDD solid;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.amenities ul,
+.reviews ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.amenities li,
+.reviews li {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.icon {
+    /* Add styles for the icon here */
+    /* For example: font-family, font-size, color, etc. */
+}
